@@ -42,14 +42,6 @@ students.each do |key, value|
 end
 
 
-
-  # BONUS: Calculate the total number of students across all cohorts using each and a variable to keep track of the total. Output the result.
-  #
-  # BONUS: Create another similar hash called staff and display it using the same method.
-  #
-  # After you're done, be sure you have committed and pushed everything to your Github repo.
-
-
 # students.each do |key, value|
 #   new_value = value + 10
 #   students[key] = value
